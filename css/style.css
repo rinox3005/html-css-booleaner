@@ -28,9 +28,20 @@ h4 span{
 }
 
 /* Immagini e descrizione */
-
 .pictures{
     margin-top: 20px;
     font-size: 12px;
 }
+/* Corpo del testo */
+.highlight {
+    background-color: yellow;
+}
 
+.space{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.list{
+    margin-left: 20px;
+}
