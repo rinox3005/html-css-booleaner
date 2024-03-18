@@ -45,3 +45,27 @@ h4 span{
 .list{
     margin-left: 20px;
 }
+
+/* Tabella */
+.table{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+thead{
+    background-color: rgb(32, 169, 229);
+}
+.blutable {
+    background-color: rgb(177, 229, 242);
+}
+
+table{
+    border-collapse: collapse;
+}
+
+td{
+    padding: 15px;
+}
+
+th{
+    color: white;
+}
