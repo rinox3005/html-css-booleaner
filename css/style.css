@@ -4,12 +4,6 @@
     box-sizing: border-box;
 }
 
-/* Centratura pagina */
-.container{
-    width: 1200px;
-    margin: 0 auto;
-}
-
 /* Stile Banner e Logo Header */
 .header {
     background-color: rgb(78, 160, 255);
@@ -21,7 +15,7 @@
 
 .header img{
     margin-top: 40px;
-    margin-left: 350px;
+    margin-left: 10px;
     width: 200px;
 }
 /* Stile Heading */
